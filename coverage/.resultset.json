@@ -40,6 +40,16 @@
         1,
         null,
         1,
+        null,
+        3,
+        2,
+        null,
+        1,
+        3,
+        3,
+        null,
+        null,
+        null,
         null
       ],
       "/Users/joanna/Desktop/CMU STUFF/Third_Year/Spring_21/67-373/272 lab refresh/lab5-choretracker-starter/app/models/application_record.rb": [
@@ -307,6 +317,6 @@
         0
       ]
     },
-    "timestamp": 1612404294
+    "timestamp": 1612404961
   }
 }

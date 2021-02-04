@@ -59,11 +59,21 @@
       ],
       "/Users/joanna/Desktop/CMU STUFF/Third_Year/Spring_21/67-373/272 lab refresh/lab5-choretracker-starter/app/models/chore.rb": [
         1,
+        1,
+        1,
         null
       ],
       "/Users/joanna/Desktop/CMU STUFF/Third_Year/Spring_21/67-373/272 lab refresh/lab5-choretracker-starter/app/models/task.rb": [
-        0,
-        0
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null
       ],
       "/Users/joanna/Desktop/CMU STUFF/Third_Year/Spring_21/67-373/272 lab refresh/lab5-choretracker-starter/app/controllers/application_controller.rb": [
         0,
@@ -317,6 +327,6 @@
         0
       ]
     },
-    "timestamp": 1612404961
+    "timestamp": 1612406559
   }
 }
